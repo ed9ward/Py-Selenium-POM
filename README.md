@@ -1,6 +1,7 @@
 # Python+Selenium-POM
 
 Small AQA project to learn in practice how to use Python+Selenium to test web application.
+
 *not as full version for now. I lost all further progress before start using Git.
 
 Selectors on the login page.
